@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Python, Flask, MariaDB and SQL Server.
+- 🤔 I’m looking for help with Flask v2.0
+- 💬 Ask me about Linux, VMware, Proxmox and Ubiquiti Networks
+- 📫 How to reach me: felixnrc@protonmail.com
