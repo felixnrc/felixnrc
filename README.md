@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning JavaScript, Vue.js, Nuxt.js, TailWindCSS, Python, Flask, MariaDB and SQL Server.
-- 🤔 I’m looking for help with Flask v2.0
-- 💬 Ask me about Linux, VMware, Proxmox and Ubiquiti Networks
+- 💬 Ask me about Linux, VMware, Proxmox and Mikrotik.
 - 📫 How to reach me: felixnrc@protonmail.com
